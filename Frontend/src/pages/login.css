@@ -1,0 +1,112 @@
+#forget-password1{
+    color:hsl(0, 0%, 52%);
+    position: absolute;
+    padding: 0px 0px;
+    margin: 5px 0px;
+    cursor: pointer;
+}
+#forget-password:hover{
+    color: black;
+}
+.total-login1{
+    height: 100%;
+    width: 100%; 
+    background:linear-gradient(rgb(93, 198, 255),rgb(79, 73, 241));
+    position: absolute;
+}
+.login-form1{
+    width: 380px;
+    height:450px;
+    position: relative;
+    margin: 10% auto;
+    background: white;
+    padding: 5px;
+    border-radius: 10px;    
+}
+.form-op1{
+    margin: 80px 0px;
+}
+.error-style{
+    color: red;
+    font-size: small;
+  }
+.inputs1{
+    width: 100%;
+    padding: 7px 0px;
+    margin: 10px 0px;
+    margin-bottom: 2px;
+    border  : 1px ;
+    border-color: #999;
+    border-style: solid;
+    outline:none;
+    background: transparent;
+}
+.label{
+    color: #858484;
+    position: relative;
+    padding: 5px 0px;
+    margin: 2px 0px;
+}
+#not-reg{
+    display: inline-block;
+    padding: auto;
+    margin:0px 0px ;
+}
+#login-submit{
+    padding: auto;
+    margin: 10px 30px;
+}
+#reset-button{
+    padding: auto;
+    margin: 10px 50px;
+}
+#signup-button{
+    padding: auto;
+    margin: 10px 10px;
+}
+/* CSS */
+.button-29 {
+
+  align-items: center;
+  appearance: none;
+  background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+  border: 0;
+  border-radius: 10px;
+  box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: "JetBrains Mono",monospace;
+  height: 40px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s,transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow,transform;
+  font-size: 14px;
+}
+
+.button-29:focus {
+  box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+}
+
+.button-29:hover {
+  box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  transform: translateY(-2px);
+}
+
+.button-29:active {
+  box-shadow: #3c4fe0 0 3px 7px inset;
+  transform: translateY(2px);
+}

@@ -1,0 +1,128 @@
+.non-valid{
+    color: red;
+    top: 80px;
+    font-size: small;
+}
+.total-login{
+    height: 200%;
+    width: 100%; 
+    background:linear-gradient(rgb(93, 198, 255),rgb(79, 73, 241));
+    position: absolute;    
+}
+.already-have-a-account{
+    color: #858484;
+    margin-right: 10px;
+}
+.login-form{
+    width: 450px;
+    height:1220px;
+    position: relative;
+    margin: 10% auto;
+    background: white;
+    padding: 5px;
+    border-radius:10px; 
+}
+.signup-form{
+    margin: 80px 0;
+}
+.form-control{
+    width: 90%;
+    padding: 7px 0px;
+    margin: 10px 0px;
+    margin-bottom: 2px;
+    border  : 1px ;
+    border-color: #999;
+    border-style: solid;
+    outline:none;
+    background: transparent;
+}
+#firstname{
+width: 45%;
+margin-right: 30px;
+}
+#lastname-error{
+    margin-left: 90px;
+}
+#lastname{
+    width: 45%;
+    }
+    h1{
+        text-align: center;
+    }
+    input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .button-29 {
+
+    align-items: center;
+    appearance: none;
+    background-image: radial-gradient(100% 100% at 100% 0, #5adaff 0, #5468ff 100%);
+    border: 0;
+    border-radius: 10px;
+    box-shadow: rgba(45, 35, 66, .4) 0 2px 4px,rgba(45, 35, 66, .3) 0 7px 13px -3px,rgba(58, 65, 111, .5) 0 -3px 0 inset;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-flex;
+    font-family: "JetBrains Mono",monospace;
+    height: 40px;
+    justify-content: center;
+    line-height: 1;
+    list-style: none;
+    overflow: hidden;
+    padding-left: 16px;
+    padding-right: 16px;
+    position: relative;
+    text-align: left;
+    text-decoration: none;
+    transition: box-shadow .15s,transform .15s;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+    will-change: box-shadow,transform;
+    font-size: 14px;
+  }
+  
+  .button-29:focus {
+    box-shadow: #3c4fe0 0 0 0 1.5px inset, rgba(45, 35, 66, .4) 0 2px 4px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+  }
+  
+  .button-29:hover {
+    box-shadow: rgba(45, 35, 66, .4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px, #3c4fe0 0 -3px 0 inset;
+    transform: translateY(-2px);
+  }
+  
+  .button-29:active {
+    box-shadow: #3c4fe0 0 3px 7px inset;
+    transform: translateY(2px);
+  }
+   .form-control{ 
+
+   /* padding: 15px 0; */
+       /* size: 50px; */
+ width: 435px;
+    /* height: 0px;*/ 
+   }  
